@@ -2,6 +2,10 @@
 
 ###
 
+<img align="right" height="200" src="https://i.imgflip.com/7ttat4.jpg"  />
+
+###
+
 <p align="left">💻 Working with Ujiboo srl<br>🎓 Computer engineer<br>🔭 Looking for digital freedom<br><br>⚡ Fun fact: i'm also a chef</p>
 
 ###
@@ -102,10 +106,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Creiv.Creiv&"  />
 </div>
-
-###
-
-<img align="right" height="200" src="https://i.imgflip.com/7ttat4.jpg"  />
 
 ###
 
